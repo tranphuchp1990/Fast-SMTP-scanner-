@@ -4,7 +4,7 @@ Saga SMTP Cracker is a multithreaded tool that tests SMTP servers with username:
 <h2>🎬 Demo Video</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=v5On5Qqbyk8">
+  <a href="https://www.youtube.com/watch?v=v5On5Qqbyk8" target"blank">
     <img src="images/Screenshot 2026-04-06 131607.png" alt="Watch demo video" width="800">
   </a>
 </p>
