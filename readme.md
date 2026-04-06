@@ -2,9 +2,7 @@ Saga SMTP Cracker is a multithreaded tool that tests SMTP servers with username:
 
 ![Screenshot](/Saga-Smtp-Cracker-v1.5-1.gif)
 ![Screenshot](images/Saga-SMTP-Cracker-results-1.png)
-![Screenshot](/Saga-Smtp-Cracker-v1.5-1.gif)
-![Screenshot](/Saga-Smtp-Cracker-v1.5-1.gif)
-![Screenshot](/Saga-Smtp-Cracker-v1.5-1.gif)
+![Screenshot](images/saga-smtp-cracker-sent-3.png)
 
 <h2>📬 Contact</h2>
 
