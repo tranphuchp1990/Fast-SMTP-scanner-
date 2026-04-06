@@ -9,6 +9,12 @@ Saga SMTP Cracker is a multithreaded tool that tests SMTP servers with username:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://odysee.com/@SoftHatch:5/Saga-Smtp-Cracker:1?src=embed" target"blank">
+    <img src="images/Screenshot 2026-04-06 131607.png" alt="Watch demo video" width="800">
+  </a>
+</p>
+
 ![Screenshot](images/Saga-SMTP-Cracker-results-1.png)
 ![Screenshot](images/saga-smtp-cracker-sent-3.png)
 
